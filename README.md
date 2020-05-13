@@ -1,6 +1,8 @@
-# client
+# Client
 
-## Project setup
+Client side is built using Vue js.
+
+### Project setup
 ```
 npm install
 ```
@@ -24,14 +26,16 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-# server
+# Server
 
-## Activate virtual environment
+Server side is built using Flask.
+
+### Activate virtual environment
 ```
 source env/bin/activate
 ```
 
-## Run Server
+### Run Server
 ```
 python app.py
 ```
